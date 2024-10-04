@@ -14,12 +14,11 @@
 [ND](https://iyamaga.github.io/JFlightA320/ND)
 [ECAM](https://iyamaga.github.io/JFlightA320/ECAM)
 [FCU](https://iyamaga.github.io/JFlightA320/FCU)
-[MCDU](https://iyamaga.github.io/JFlightA320/FMC_MCDU)
+[MCDU](https://iyamaga.github.io/JFlightA320/Mcdu)
 
 ## Fly-By-Wire
 [FlyByWire](https://iyamaga.github.io/JFlightA320/FlyByWire)
 
-[AutoBrake](https://iyamaga.github.io/JFlightA320/AutoBrake)
 [AutoThrust](https://iyamaga.github.io/JFlightA320/AutoThrust)
 [AutoTrim](https://iyamaga.github.io/JFlightA320/AutoTrim)
 [AutoBrake](https://iyamaga.github.io/JFlightA320/Autobrake)
@@ -36,9 +35,10 @@
 [着陸](https://iyamaga.github.io/JFlightA320/Landing)
 [着陸2](https://iyamaga.github.io/JFlightA320/Landing_2)
 [周回飛行訓練](https://iyamaga.github.io/JFlightA320/TrafficPtn)
+[タッチアンドゴー](https://iyamaga.github.io/JFlightA320/TouchAndGo)
 
 ## Q&A
-[パイロット](https://iyamaga.github.io/JFlightA320/&A_Pilot)
+[パイロット](https://iyamaga.github.io/JFlightA320/Q&A_Pilot)
 [旅客機](https://iyamaga.github.io/JFlightA320/Q&A_Plane)
 [パイロットになるには](https://iyamaga.github.io/JFlightA320/HowToBecomePilot)
 [パイロットの適正](https://iyamaga.github.io/JFlightA320/PilotSuitability)
